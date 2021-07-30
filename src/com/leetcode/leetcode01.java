@@ -12,6 +12,7 @@ public class leetcode01 {
                 }
             }
         }
+        System.out.println("sum[] = " + sum);
         return sum;
     }
 
